@@ -7,6 +7,8 @@ require (
 	github.com/alecthomas/units v0.0.0-20190924025748-f65c72e2690d // indirect
 	github.com/fatih/color v1.9.0 // indirect
 	github.com/golang/protobuf v1.3.5 // indirect
+	github.com/google/go-cmp v0.4.0 // indirect
+	github.com/jessevdk/go-flags v1.4.0
 	github.com/mattn/go-colorable v0.1.6 // indirect
 	github.com/mattn/go-runewidth v0.0.9 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
